@@ -9,14 +9,11 @@ Mais detalhes no site da disciplina:
 ## Detalhes
 
 Integrantes:
-
-- Nome 
-- Nome
-- Nome
+Pedro Cliquet
 
 Nome da marca:
 
-- Nome e logo?
+Touch Cycle
 
 ## Interface
 
@@ -71,5 +68,5 @@ Detalhes da terceira interação da proposta de interface:
 
 - Imagem da proposta
 - Imagem da proposta no LCD
-- Vídeo 
+- [Vídeo ](https://www.youtube.com/watch?v=77bwtvKrkS0)https://www.youtube.com/watch?v=77bwtvKrkS0
 
